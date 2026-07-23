@@ -1,6 +1,4 @@
 main:
-  - title: "Introduction"
-    url: /introduction/
   - title: "Theory"
     url: /theory/
     children:
