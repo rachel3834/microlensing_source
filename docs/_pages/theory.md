@@ -1,6 +1,6 @@
 ---
 title: "What is Microlensing?"
-permalink: /theory
+permalink: /theory/
 layout: single
 toc: true
 toc_label: "On this page"
