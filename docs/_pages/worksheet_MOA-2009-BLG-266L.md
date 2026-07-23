@@ -75,8 +75,8 @@ document.getElementById("Hint1.1").style = " "
 document.getElementById("Hint1.2").style = " "
 }
 </script>
-<img id="Hint1.1" src="/assets/images/geom_u0t0.png" style="display: none;" width=500>
-<img id="Hint1.2" src="/assets/images/geom_FWHM.png" style="display: none;" width=500><br>
+<img id="Hint1.1" src="{{ '/assets/images/geom_u0t0.png' | relative_url }}" style="display: none;" width=500>
+<img id="Hint1.2" src="{{ '/assets/images/geom_FWHM.png' | relative_url }}" style="display: none;" width=500><br>
 <button id="hint2Btn"> Hint 2</button>
 <p id="hint2"> </p>
 
@@ -142,9 +142,9 @@ document.getElementById("Hint4.2").style = " "
 document.getElementById("Hint4.3").style = " "
 }
 </script>
-<img id="Hint4.1" src="/assets/images/geom_Aofu.png" style="display: none;" width=500>
-<img id="Hint4.2" src="/assets/images/planet_lc_annotated.png" style="display: none;" width=500>
-<img id="Hint4.3" src="/assets/images/lensed_images1.png" style="display: none;" width=500><br>
+<img id="Hint4.1" src="{{ '/assets/images/geom_Aofu.png' | relative_url }}" style="display: none;" width=500>
+<img id="Hint4.2" src="{{ '/assets/images/planet_lc_annotated.png' | relative_url }}" style="display: none;" width=500>
+<img id="Hint4.3" src="{{ '/assets/images/lensed_images1.png' | relative_url }}" style="display: none;" width=500><br>
 <button id="hint6Btn"> Hint 2</button><br>
 <script>
 document.getElementById("hint6Btn").addEventListener("click", show_hint)
@@ -154,8 +154,8 @@ document.getElementById("Hint6.2").style = " "
 document.getElementById("Hint6.3").innerHTML = "<br> A major image perturbation always increases the magnification. In a minor image perturbation, the magnification drops below the expectation for a point lens."
 }
 </script>
-<img id="Hint6.1" src="/assets/images/planet_major.png" style="display: none;" width=500>
-<img id="Hint6.2" src="/assets/images/planet_minor.png" style="display: none;" width=500>
+<img id="Hint6.1" src="{{ '/assets/images/planet_major.png' | relative_url }}" style="display: none;" width=500>
+<img id="Hint6.2" src="{{ '/assets/images/planet_minor.png' | relative_url }}" style="display: none;" width=500>
 <p id="Hint6.3"></p>
 
 ### Step 2: What is the mass ratio between the planet and the star? 
@@ -192,7 +192,7 @@ function show_magnitude_hint() {
 document.getElementById("Hint5.1").style = " "
 }
 </script>
-<img id="Hint5.1" src="/static/website/planet_lc_annotated.png" style="display: none;" width=500>
+<img id="Hint5.1" src="{{ '/assets/images/planet_lc_annotated.png' | relative_url }}" style="display: none;" width=500>
 
 <table style="border:1px solid black;<padding: 5px 10px">
 <tr> <th>Planet&nbsp;</th>

@@ -22,8 +22,8 @@ title: Microlensing Source
 email: rstreet@lco.global
 description: >- # this means to ignore newlines until "baseurl:"
   Astronomical education website featuring microlensing
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/microlensing_source" # the subpath of your site, e.g. /blog
+url: "https://rachel3834.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  rachel3834
 
 atom_feed:
