@@ -1,0 +1,35 @@
+main:
+  - title: "Introduction"
+    url: /introduction/
+  - title: "Theory"
+    url: /theory/
+    children:
+      - title: "Point Source, Point Lens"
+        url: /theory/pspl/
+      - title: "Microlensing Magnification"
+        url: /theory/magnification/
+      - title: "Optical Depth"
+        url: /theory/optical-depth/
+      - title: "Parallax"
+        url: /theory/parallax/
+      - title: "Blending"
+        url: /theory/blending/
+      - title: "Binary Lenses"
+        url: /theory/binary-lenses/
+      - title: "Glossary"
+        url: /theory/glossary/
+      - title: "Estimating Parameters"
+        url: /theory/estimating-parameters/
+  - title: "Exercises"
+    url: /exercises/
+    children:
+      - title: "PSPL Exercise"
+        url: /theory/pspl-exercise/
+      - title: "Finding Planets"
+        url: /theory/finding-planets/
+  - title: "Observations"
+    url: /observations/
+  - title: "Resources"
+    url: /resources/
+  - title: "About"
+    url: /about/
