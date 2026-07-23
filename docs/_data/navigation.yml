@@ -22,9 +22,9 @@ main:
     url: /exercises/
     children:
       - title: "PSPL Exercise"
-        url: /theory/pspl-exercise/
+        url: /exercises/pspl-exercise/
       - title: "Finding Planets"
-        url: /theory/finding-planets/
+        url: /exercises/finding-planets/
   - title: "Observations"
     url: /observations/
   - title: "Resources"
