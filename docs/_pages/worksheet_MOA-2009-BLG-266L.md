@@ -1,6 +1,6 @@
 ---
 title: "Worksheet for MOA-2009-BLG-226L"
-permalink: /exercises/worksheet-MOA-2009-BLG-226L/
+permalink: /teaching/worksheet-MOA-2009-BLG-226L/
 layout: single
 toc: true
 toc_label: "On this page"
@@ -16,7 +16,7 @@ collaboration of follow-up telescopes.  As a result, the lightcurve was densely 
 which allowed a very short-lived planetary anomaly to be detected.  
 Analysis of the combined data was published by [Muraki, Y. et al. (2011), ApJ, 741, 22](http://iopscience.iop.org/article/10.1088/0004-637X/741/1/22/pdf).
 
-Use the methods outlined in [estimating parameters](/theory/estimating-parameters/) to 
+Use the methods outlined in [estimating parameters]({{ '/theory/estimating-parameters/' | relative_url }}) to 
 derive approximate values for the microlensing model parameter. 
 
 <figure>

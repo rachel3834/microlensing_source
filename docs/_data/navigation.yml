@@ -18,13 +18,13 @@ main:
         url: /theory/glossary/
       - title: "Estimating Parameters"
         url: /theory/estimating-parameters/
-  - title: "Exercises"
-    url: /exercises/
+  - title: "Teaching"
+    url: /teaching/
     children:
       - title: "PSPL Exercise"
-        url: /exercises/pspl-exercise/
+        url: /teaching/pspl-exercise/
       - title: "Finding Planets"
-        url: /exercises/finding-planets/
+        url: /teaching/finding-planets/
   - title: "Observations"
     url: /observations/
   - title: "Resources"

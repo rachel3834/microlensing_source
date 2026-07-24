@@ -1,6 +1,6 @@
 ---
 title: "Blending"
-permalink: /theory/blending
+permalink: /theory/blending/
 layout: single
 toc: true
 toc_label: "On this page"

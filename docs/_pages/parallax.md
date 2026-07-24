@@ -1,6 +1,6 @@
 ---
 title: "Parallax"
-permalink: /theory/parallax
+permalink: /theory/parallax/
 layout: single
 toc: true
 toc_label: "On this page"

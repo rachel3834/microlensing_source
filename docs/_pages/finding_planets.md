@@ -1,6 +1,6 @@
 ---
 title: "Finding Planets"
-permalink: /exercises/finding-planets/
+permalink: /teaching/finding-planets/
 layout: single
 toc: true
 toc_label: "On this page"

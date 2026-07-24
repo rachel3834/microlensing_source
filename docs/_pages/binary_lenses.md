@@ -1,6 +1,6 @@
 ---
 title: "Binary Lenses"
-permalink: /theory/binary-lenses
+permalink: /theory/binary-lenses/
 layout: single
 toc: true
 toc_label: "On this page"

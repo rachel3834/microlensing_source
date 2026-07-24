@@ -1,6 +1,6 @@
 ---
 title: "PSPL Exercise"
-permalink: /exercises/pspl-exercise/
+permalink: /teaching/pspl-exercise/
 layout: single
 toc: true
 toc_label: "On this page"
