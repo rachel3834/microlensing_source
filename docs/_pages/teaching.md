@@ -27,3 +27,4 @@ and explore a number of worksheets for binary events:
 * [OGLE-2005-BLG-390L]({{ '/teaching/worksheet-OGLE-2005-BLG-390L/' | relative_url }})
 * [OGLE-2012-BLG-358L]({{ '/teaching/worksheet-OGLE-2012-BLG-358L/' | relative_url }})
 * [OGLE-2012-BLG-0406L]({{ '/teaching/worksheet-OGLE-2012-BLG-0406L/' | relative_url }})
+* [OGLE-2014-BLG-1760L]({{ '/teaching/worksheet-OGLE-2014-BLG-1760L/' | relative_url }})
