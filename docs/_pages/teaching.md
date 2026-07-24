@@ -24,3 +24,4 @@ and explore a number of worksheets for binary events:
 * [MOA-2010-BLG-353L]({{ '/teaching/worksheet-MOA-2010-BLG-353L/' | relative_url }})
 * [MOA-2011-BLG-028L]({{ '/teaching/worksheet-MOA-2011-BLG-028L/' | relative_url }})
 * [MOA-2013-BLG-605L]({{ '/teaching/worksheet-MOA-2013-BLG-605L/' | relative_url }})
+* [OGLE-2005-BLG-390L]({{ '/teaching/worksheet-OGLE-2005-BLG-390L/' | relative_url }})
