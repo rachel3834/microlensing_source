@@ -14,6 +14,8 @@ main:
         url: /theory/blending/
       - title: "Binary Lenses"
         url: /theory/binary-lenses/
+      - title: "Caustics"
+        url: /theory/caustics/
       - title: "Glossary"
         url: /theory/glossary/
       - title: "Estimating Parameters"
@@ -25,6 +27,8 @@ main:
         url: /teaching/pspl-exercise/
       - title: "Finding Planets"
         url: /teaching/finding-planets/
+      - title: "Caustics"
+        url: /teaching/worksheet-caustics/
   - title: "Observations"
     url: /observations/
   - title: "Resources"
