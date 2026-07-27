@@ -120,7 +120,7 @@ the network to monitor the survey fields around the clock.  KMTNet began operati
     <tr><td>Passbands</td><td>V, R, I</td></tr>
 </table>
 
-## NSF/DOE's Rubin Observatory's Legacy Survey of Space and Time
+## LSST: NSF/DOE's Rubin Observatory's Legacy Survey of Space and Time
 <table>
 <tr>
 <td>
@@ -144,13 +144,93 @@ Stars Science Collaboration has a very active Microlensing Group.
 <table width="50%">
     <tr><td>Director of Operations</td><td>Bob Blum, NOIRLab</td></tr>
     <tr><td>Website</td><td>
-        <a href="https://rubinobservatory.org/">Rubin Observatory Website</a>
-        <a href="https://rubinobservatory.org/for-scientists/science-collaborations">Science Collaborations</a>
-        <a href="https://lsst-tvssc.github.io/">Transient and Variable Stars Science Collaboration, featuring a Microlensing Group</a>
+        <a href="https://rubinobservatory.org/">Rubin Observatory Website</a><br>
+        <a href="https://rubinobservatory.org/for-scientists/science-collaborations">Science Collaborations</a><br>
+        <a href="https://lsst-tvssc.github.io/">Transient and Variable Stars Science Collaboration, featuring a Microlensing Group</a><br>
         </td></tr>
     <tr><td>Telescope aperture</td><td>8.6m (6.5m effective aperture)</td></tr>
     <tr><td>Site</td><td>Cerro Pachón, Chile</td></tr>
     <tr><td>Field of view</td><td>9.6 square degrees</td></tr>
     <tr><td>Pixel scale</td><td>0.2 arcsec/pixel</td></tr>
     <tr><td>Filters</td><td>SDSS-u,g,r,i,z,y</td></tr>
+</table>
+
+## VVV: VISTA Variables in The Via Lactea
+<table>
+<tr>
+<td>
+VVV is an ESO public survey that used the Visible and Infrared Survey Telescope for Astronomy (VISTA) 
+survey telescope at Paranal Observatory, Chile.  It's first generation instrument, the VIRCam, offered 
+both a wide field of view and spatial resolution.  VVV was a public IR multi-epoch survey of a 
+520 sq.deg. section of the Milky Way bulge and mid-plane, focusing on regions of star formation 
+activity.   The goals of the survey were to characterize all forms of stellar variability in the 
+infrared over a 6-yr period, including longer-timescale microlensing events.  The subsequent VVVx survey
+extended the survey footprint to cover 1700 sq. degrees in the Southern sky, from l <=230 deg to l = +20 deg.
+VVV data is available through the ESO archive as a public data release.  
+</td>
+<td style="max-width: 500px; width: 50%;">
+<figure>
+  <img src="{{ '/assets/images/VISTA_at_Paranal.jpg' | relative_url }}" alt="VISTA Survey Telescope" style="max-width: 500px; width: 100%;">
+  <figcaption>VISTA Survey Telescope, Paranal Observatory, Chile [ESO]</figcaption>
+</figure>
+</td>
+</tr>
+</table>
+<table width="50%">
+    <tr><td>Operated by</td><td>ESO Public Survey</td></tr>
+    <tr><td>Website</td><td>
+        <a href="https://vvvsurvey.org/">VVV/VVVx Website</a><br>
+        <a href="https://archive.eso.org/wdb/wdb/adp/phase3_main/form?phase3_collection=VVV&release_tag=6">ESO Archive</a>
+        </td></tr>
+    <tr><td>Telescope aperture</td><td>4.1m telescope</td></tr>
+    <tr><td>Sites</td><td>Paranal Observatory, Chile</td></tr>
+    <tr><td>Field of view</td><td>1.65 degree diameter</td></tr>
+    <tr><td>Pixel scale</td><td>0.339 arcsec/pixel</td></tr>
+    <tr><td>Passbands</td><td>Z, Y, J, H, Ks</td></tr>
+</table>
+
+
+## EROS I & II: Expérience pour la Recherche d'Objets Sombres
+EROS was one of the first microlensing surveys, with the goal of looking for signs of dark matter in 
+the Milky Way in the form of hypothesized Massive Compact Halo Objects (MACHOs) and brown dwarfs.  The 
+first phase of the project started in 1990 using the 40cm telescope at La Silla Observatory, Chile and continued to 1995.  
+Initially, the observing strategy searched for short timescale (1hr to a few days) microlensing events, though none
+were found.  In addition the project also obtained timeseries observations via photographic plates in 
+different passbands with the 1m Schmidt ESO telescope.  The second phase of the project (1996-2003) 
+switched to using a twin-CCD camera capable of simultaneously imaging in $$R_{EROS}$$ and $$B_{EROS}$$ passbands.  
+This was mounted on the 1m MARLY telescope and concentrated on timeseries observations 
+of the Magellanic clouds (LMC, SMC), Galactic Centre (CG) and four selected regions in the 
+direction of Galactic spiral arms.  
+
+<table width="50%">
+    <tr><td>Website</td><td>
+        <a href="https://eros.in2p3.fr/">EROS Website</a>
+        </td></tr>
+    <tr><td>Telescope aperture</td><td>0.4m, 0.95m</td></tr>
+    <tr><td>Site</td><td>La Silla Observatory, Chile</td></tr>
+    <tr><td>Field of view</td><td>0.7 x 1.4 degrees in EROS II</td></tr>
+    <tr><td>Pixel scale</td><td>0.6 arcsec/pixel</td></tr>
+    <tr><td>Filters</td><td>$$B_{EROS}, R_{EROS}$$</td></tr>
+</table>
+
+## The MACHO Project
+As the name suggests, the MACHO survey conducted a search for dark matter in the Milky Way between 
+1992 - 1999.  The survey used the 1.27-metre (50-inch) telescope at the Mount Stromlo Observatory in
+ Australia together with a very wide-field camera.  In combination with a beamsplitter, this allowed 
+the survey to simultaneously image in passbands centered on 560nm and 710nm.  The survey performed 
+timeseries imaging of the Large Magellanic Cloud and the Galactic bulge, with a cadence of twice per 
+night to weekly.  The MACHO project produced the first discovery of a microlensing event 
+[Alcock, C. et al. (1993) Nature, Volume 365, Issue 6447, pp. 621-623](https://ui.adsabs.harvard.edu/abs/1993Natur.365..621A/abstract), 
+and were the first team to circulate an alert of an ongoing microlensing event in 1995 
+[Alcock, C. et al. (1995) IAUC 6068](http://www.cbat.eps.harvard.edu/iauc/06000/06068.html).
+
+<table width="50%">
+    <tr><td>Website</td><td>
+        <a href="https://en.wikipedia.org/wiki/MACHO_Project">Wikipedia entry</a>
+        </td></tr>
+    <tr><td>Telescope aperture</td><td>1.27m Telescope</td></tr>
+    <tr><td>Site</td><td>Mt. Stromlo Observatory, Australia</td></tr>
+    <tr><td>Field of view</td><td>1 degree</td></tr>
+    <tr><td>Pixel scale</td><td>0.62 arcsec/pixel</td></tr>
+    <tr><td>Filters</td><td>Centered on 560nm and 710nm</td></tr>
 </table>
