@@ -38,5 +38,14 @@ main:
         url: /observations/space-based-surveys/
   - title: "Resources"
     url: /resources/
+    children:
+      - title: "Multimedia"
+        url: /resources/multimedia/
+      - title: "Links"
+        url: /resources/links/
+      - title: "Conferences"
+        url: /resources/conferences/
+      - title: "Software"
+        url: /resources/software/
   - title: "About"
     url: /about/
