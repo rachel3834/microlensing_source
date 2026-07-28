@@ -47,5 +47,9 @@ main:
         url: /resources/conferences/
       - title: "Software"
         url: /resources/software/
+      - title: "Datasets"
+        url: /resources/datasets/
+      - title: "Data Challenges"
+        url: /resources/data-challenges/
   - title: "About"
     url: /about/
