@@ -79,7 +79,7 @@ modeling microlensing events. Click a package name to see more details.
     <dd>Radek Poleski, Ohio State University</dd>
     <dt>Collaborators</dt>
     <dd>Jennifer Yee, CfA Harvard</dd>
-    <dt>Download (v1.0)</dt>
+    <dt>Download</dt>
     <dd><a href="https://github.com/rpoleski/MulensModel/releases/tag/v1.0.0" target="_blank" rel="noopener">MuLensModel Github Repo</a></dd>
     <dt>Documentation</dt>
     <dd><a href="https://github.com/rpoleski/MulensModel" target="_blank" rel="noopener">MuLensModel documentation</a></dd>
@@ -95,7 +95,7 @@ modeling microlensing events. Click a package name to see more details.
     <dd>Jessica Lu, UC Berkeley</dd>
     <dt>Collaborators</dt>
     <dd>Casey Lam (Carnegie Observatories), Michael Medford, Natasha Abrams (UC Berkeley), Sean Terry (University of Maryland and NASA Goddard Space Flight Center), Jeff Chen (UC Berkeley), and Niranjan Bhatia (UC Berkeley)</dd>
-    <dt>Download (v1.0)</dt>
+    <dt>Download</dt>
     <dd><a href="https://github.com/MovingUniverseLab/BAGLE_Microlensing/tree/main" target="_blank" rel="noopener">BAGEL Github Repo</a></dd>
     <dt>Documentation</dt>
     <dd><a href="https://bagle.readthedocs.io/en/latest/" target="_blank" rel="noopener">BAGEL documentation</a></dd>
@@ -109,7 +109,7 @@ modeling microlensing events. Click a package name to see more details.
     <dd>David Bennett, NASA Goddard</dd>
     <dt>Collaborators</dt>
     <dd>Sun Hong Rhie, Greg Olmschenk</dd>
-    <dt>Download (v1.0)</dt>
+    <dt>Download</dt>
     <dd><a href="https://github.com/golmschenk/eesunhong" target="_blank" rel="noopener">eesunhong Github Repo</a></dd>
     <dt>Publications</dt>
     <dd>Several, see in particular:<br>
@@ -123,7 +123,7 @@ modeling microlensing events. Click a package name to see more details.
   <dl class="software-meta">
     <dt>Lead developer</dt>
     <dd>Keming Zhang, UC San Diego</dd>
-    <dt>Download (v1.0)</dt>
+    <dt>Download</dt>
     <dd><a href="https://github.com/kmzzhang/nbi/tree/main" target="_blank" rel="noopener">nbi Github Repo</a></dd>
     <dt>Publications</dt>
     <dd><a href="https://ml4astro.github.io/icml2023/assets/71.pdf" target="_blank" rel="noopener">Zhang et al. (2023)</a></dd>
@@ -135,7 +135,7 @@ modeling microlensing events. Click a package name to see more details.
   <dl class="software-meta">
     <dt>Lead developer</dt>
     <dd>Haimeng Zhao and Wei Zhu, Tsinghua University </dd>
-    <dt>Download (v1.0)</dt>
+    <dt>Download</dt>
     <dd><a href="https://github.com/haimengzhao/magic-microlensing" target="_blank" rel="noopener">Github Repo</a></dd>
     <dt>Publications</dt>
     <dd><a href="https://iopscience.iop.org/article/10.3847/1538-3881/ac9230" target="_blank" rel="noopener">Zhao & Zhu et al. (2022) AJ, 164, 192</a></dd>
@@ -147,7 +147,7 @@ modeling microlensing events. Click a package name to see more details.
   <dl class="software-meta">
     <dt>Lead developer</dt>
     <dd>Shota Miyazaki and Hajime Kawahara </dd>
-    <dt>Download (v1.0)</dt>
+    <dt>Download</dt>
     <dd><a href="https://github.com/ShotaMiyazaki94/microjax" target="_blank" rel="noopener">Github Repo</a></dd>
     <dt>Publications</dt>
     <dd><a href="https://doi.org/10.3847/1538-4357/ae1005" target="_blank" rel="noopener">Miyazaki, S., & Kawahara, H. 2025, ApJ, 994, 144</a></dd>
@@ -159,7 +159,7 @@ modeling microlensing events. Click a package name to see more details.
   <dl class="software-meta">
     <dt>Lead developer</dt>
     <dd>Haibin Ren</dd>
-    <dt>Download (v1.0)</dt>
+    <dt>Download</dt>
     <dd><a href="https://github.com/CoastEgo/microlux" target="_blank" rel="noopener">Github Repo</a></dd>
     <dt>Publications</dt>
     <dd><a href="https://iopscience.iop.org/article/10.3847/1538-3881/adb1b2" target="_blank" rel="noopener">Haibin, R. & Zhu, W. (2025), AJ, 169, 3</a></dd>
@@ -171,7 +171,7 @@ modeling microlensing events. Click a package name to see more details.
   <dl class="software-meta">
     <dt>Lead developer</dt>
     <dd>Suwei Wang</dd>
-    <dt>Download (v1.0)</dt>
+    <dt>Download</dt>
     <dd><a href="https://github.com/AsterLight0626/Twinkle" target="_blank" rel="noopener">Github Repo</a></dd>
     <dt>Publications</dt>
     <dd><a href="https://doi.org/10.3847/1538-4365/ad9b8d" target="_blank" rel="noopener"> Wang et al, (2025), ApJS, 276, 40</a></dd>
@@ -186,7 +186,7 @@ modeling microlensing events. Click a package name to see more details.
     <dd>Casey Lam, Carnegie Observatories</dd>
     <dt>Collaborators</dt>
     <dd>Jessica Lu (UC Berkeley), Michael Medford, Natasha Abrams (UC Berkeley), Sam Rose (Caltech)</dd>
-    <dt>Download (v1.0)</dt>
+    <dt>Download</dt>
     <dd><a href="https://github.com/jluastro/PopSyCLE/tree/main" target="_blank" rel="noopener">PopSyCLE Github Repo</a></dd>
     <dt>Publications</dt>
     <dd><a href="https://ui.adsabs.harvard.edu/abs/2020ApJ...889...31L/abstract" target="_blank" rel="noopener">Lam et al. (2020)</a><br>
@@ -199,7 +199,7 @@ modeling microlensing events. Click a package name to see more details.
   <dl class="software-meta">
     <dt>Lead developer</dt>
     <dd>Naoki Koshimoto, Nunota Kansuke</dd>
-    <dt>Download (v1.0)</dt>
+    <dt>Download</dt>
     <dd><a href="https://github.com/nkoshimoto/genulens" target="_blank" rel="noopener">Github Repo</a></dd>
     <dt>Publications</dt>
     <dd><a href="https://ui.adsabs.harvard.edu/abs/2021ApJ...917...78K/abstract" target="_blank" rel="noopener"> Koshimoto, Baba & Bennett (2021), ApJ, 917, 78</a></dd>
@@ -211,9 +211,40 @@ modeling microlensing events. Click a package name to see more details.
   <dl class="software-meta">
     <dt>Lead developer</dt>
     <dd>Macy Hudson et al.</dd>
-    <dt>Download (v1.0)</dt>
+    <dt>Download</dt>
     <dd><a href="https://github.com/synthpop-galaxy/synthpop" target="_blank" rel="noopener">Github Repo</a></dd>
     <dt>Publications</dt>
     <dd><a href="https://arxiv.org/html/2603.12219v2" target="_blank" rel="noopener">Hudson, M. et al. (2026), arXiv: 2603.12219v2</a></dd>
+  </dl>
+</details>
+
+## Parameter Inference
+Once a microlensing event has been modeled it is possible to combine all 
+information on the system to infer the properties of the lensing system.  The 
+following packages exist for this purpose. 
+
+
+<details class="software-entry">
+  <summary>PyLIMASS</summary>
+  <dl class="software-meta">
+    <dt>Lead developer</dt>
+    <dd>Etienne Bachelet</dd>
+    <dt>Download</dt>
+    <dd><a href="https://github.com/ebachelet/pyLIMA/tree/master" target="_blank" rel="noopener">Part of PyLIMA's Github Repo</a></dd>
+    <dt>Publications</dt>
+    <dd><a href="https://arxiv.org/abs/2405.02230" target="_blank" rel="noopener">E. Bachelet et al. (2024), AJ, 169, 24</a></dd>
+  </dl>
+</details>
+
+
+<details class="software-entry">
+  <summary>PopClass</summary>
+  <dl class="software-meta">
+    <dt>Lead developer</dt>
+    <dd>Peter McGill</dd>
+    <dt>Download </dt>
+    <dd><a href="https://github.com/LLNL/popclass" target="_blank" rel="noopener">Github Repo</a></dd>
+    <dt>Publications</dt>
+    <dd><a href="https://arxiv.org/abs/2405.02230" target="_blank" rel="noopener">G. Sallaberry, et al. (2025), Journal of Open Source Software, vol. 10, id. 7769</a></dd>
   </dl>
 </details>
