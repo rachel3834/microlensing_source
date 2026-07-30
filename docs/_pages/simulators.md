@@ -18,7 +18,7 @@ Try these simulation tools to build intuition about how microlensing works!
           <div class="card-body">
             <h5 class="card-title">Single lens simulator</h5>
           </div>
-          <img class="card" src="{{ '/assets/images/images_icon.png' | relative_url }}" alt="Images icon">
+          <img class="card" src="{{ '/assets/images/pspl_sim_icon.png' | relative_url }}" alt="Images icon">
             </a>
         </div>
     </div>
@@ -28,7 +28,7 @@ Try these simulation tools to build intuition about how microlensing works!
           <div class="card-body">
             <h5 class="card-title">Binary lens simulator</h5>
           </div>
-          <img class="card" src="{{ '/assets/images/movies_icon.png' | relative_url }}" alt="Movies icon">
+          <img class="card" src="{{ '/assets/images/binary_sim_icon.png' | relative_url }}" alt="Movies icon">
             </a>
         </div>
     </div>

@@ -27,7 +27,7 @@ help you understand the subject and get into the field.
           <div class="card-body">
             <h5 class="card-title">Simulators</h5>
           </div>
-          <img class="card" src="{{ '/assets/images/movies_icon.png' | relative_url }}" alt="Movies icon">
+          <img class="card" src="{{ '/assets/images/binary_sim_icon.png' | relative_url }}" alt="Movies icon">
             </a>
         </div>
     </div>
