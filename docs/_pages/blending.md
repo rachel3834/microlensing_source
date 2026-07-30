@@ -31,16 +31,28 @@ Although we don't resolve the disk of the stars in these observations - they rem
 in the frame is spread over a circle of pixels due to diffraction at the telescope aperture. This shape of this circle is described
 by the star's Point Spread Function (PSF), which will have a certain Full Width Half Maximum (FWHM) depending on the telescope
  and seeing conditions at the time. The instrument detects the light via an array of pixels, each of which subtends an angle on sky
-(the pixel scale) which is specific to that camera and telescope.  If the PSFs of neighboring stars overlap, they are said to be blended. These neighbors
+(the pixel scale) which is specific to that camera and telescope.  
+<figure>
+ <img src="{{ '/assets/images/airy_disk.png' | relative_url }}" alt="Stellar PSF showing the Airy disk" style="width:200px;">
+ <img src="{{ '/assets/images/gaussian_psf.png' | relative_url }}" alt="Gaussian stellar PSF" style="width:200px;">
+ <img src="{{ '/assets/images/pixel_gaussian_psf.png' | relative_url }}" alt="Gaussian stellar PSF" style="width:200px;">
+ <figcaption>(Left) The resolved Point Spread Function of a star showing the Airy Disk; (middle) A Gaussian stellar PSF (right) A pixelized Gaussian stellar PSF</figcaption>
+</figure>
+
+If the PSFs of neighboring stars overlap, they are said to be blended. These neighbors
 are probably not physically associated with the target; they could be at any distance, but lie at a close angular separation from our line
 of sight.
 
 <figure>
-  <img src="{{ '/assets/images/blending_schematic.png' | relative_url }}" alt="Illustration of blended star images." width="200">
-  <figcaption>The light from multiple distinct stars is often blended together in our images, but only the flux from one of them exhibits a lensing lightcurve when measured as a function of time.[R.A.Street]</figcaption>
+  <img src="{{ '/assets/images/blended_gaussian_psf.png' | relative_url }}" alt="Illustration of blended star images." style="width:300px;">
+  <img src="{{ '/assets/images/pixel_blended_gaussian_psf.png' | relative_url }}" alt="Illustration of pixelized blended star images." style="width:300px;">
+  <figcaption>The light from multiple distinct stars is often blended together in 
+our images (left, and pixelized right).  Crosses indicate the true star locations.  
+Only the flux from one of them exhibits a lensing lightcurve 
+when measured as a function of time.[R.A.Street]</figcaption>
 </figure>
 
-## Affects of Blending<
+## Affects of Blending
 Blending results in light from the neighbors contaminating the flux measurement of the lensed star, f<sub>s</sub>. Whereas for
 an isolated lensed star, the flux at a given time t, f(t) is given by:
 <table width="75%"><tr><td>$$f(t) = f_{s}(t)A(u(t))$$</td><td>[29]</td></tr></table>
