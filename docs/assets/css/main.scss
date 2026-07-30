@@ -17,6 +17,79 @@ search: false
   justify-content: center;
 }
 
+// The theme's .page always reserves space on the left for a sidebar via
+// float + reduced width, even when no .sidebar element is actually present
+// (classes: wide only removes the *right*-side TOC padding). On pages with
+// no sidebar at all, that leaves a permanent empty gap on the left instead
+// of the content being centered.
+body.wide:not(:has(.sidebar)) .page {
+  float: none;
+  width: 100%;
+  margin-inline: auto;
+}
+
+// Modernized controls for the interactive simulator pages (single/binary
+// lens). Scoped to body.wide so it only touches these tool pages.
+body.wide {
+  input[type="range"] {
+    -webkit-appearance: none;
+    appearance: none;
+    height: 6px;
+    border-radius: 3px;
+    background: #dde3e6;
+    outline: none;
+    vertical-align: middle;
+
+    &::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      appearance: none;
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+      background: #3b9cba;
+      cursor: pointer;
+      border: 2px solid #fff;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
+    }
+
+    &::-moz-range-thumb {
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+      background: #3b9cba;
+      cursor: pointer;
+      border: 2px solid #fff;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, 0.25);
+    }
+
+    &::-moz-range-track {
+      height: 6px;
+      border-radius: 3px;
+      background: #dde3e6;
+    }
+  }
+
+  input[type="button"] {
+    appearance: none;
+    background: #fff;
+    border: 1px solid #c9d0d3;
+    border-radius: 6px;
+    padding: 0.35em 0.85em;
+    font-size: 0.95em;
+    cursor: pointer;
+    transition: background 0.15s ease, border-color 0.15s ease;
+
+    &:hover {
+      background: #f0f6f8;
+      border-color: #3b9cba;
+    }
+
+    &:active {
+      background: #e3f0f4;
+    }
+  }
+}
+
 // Lightweight grid/card layout for link-tile pages (e.g. resources.md).
 // This site doesn't include Bootstrap, so these classes need their own rules.
 // Sized in px rather than rem: this theme sets the root font-size to 22px,
@@ -26,6 +99,15 @@ search: false
   flex-wrap: wrap;
   gap: 16px;
   margin-bottom: 16px;
+  // On pages with the left sidebar nav, that sidebar floats alongside the
+  // page content above the theme's $large breakpoint (and stacks above it,
+  // unfloated, below that breakpoint). Without this, .row wraps around the
+  // floated sidebar at wide viewports - narrowing its available width right
+  // when there's actually more room - which inverts the intended responsive
+  // behavior (cards wrap to one column when wide, sit side-by-side when
+  // narrow). Clearing the float makes .row always start on its own line
+  // with the page's full content width, regardless of viewport size.
+  clear: both;
 }
 
 .col-sm {

@@ -51,5 +51,7 @@ main:
         url: /resources/datasets/
       - title: "Data Challenges"
         url: /resources/data-challenges/
+      - title: "Simulators"
+        url: /resources/simulators/
   - title: "About"
     url: /about/
