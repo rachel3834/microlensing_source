@@ -12,6 +12,8 @@ main:
         url: /theory/parallax/
       - title: "Blending"
         url: /theory/blending/
+      - title: "Finite sources"
+        url: /theory/finite-source-effects/
       - title: "Binary Lenses"
         url: /theory/binary-lenses/
       - title: "Caustics"
