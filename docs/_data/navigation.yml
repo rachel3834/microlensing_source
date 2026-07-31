@@ -22,6 +22,8 @@ main:
         url: /theory/glossary/
       - title: "Estimating Parameters"
         url: /theory/estimating-parameters/
+      - title: "Degeneracies"
+        url: /theory/degeneracies/
   - title: "Teaching"
     url: /teaching/
     children:
