@@ -16,3 +16,4 @@ be challenging.  The parameter space is complex and suffers a number of
 degeneracies.  Here we explore the circumstances where these arise.  
 
 * [Impact parameter sign degeneracy](/theory/degeneracies/impact-parameter-sign-degeneracy/)
+* [Blended light](/theory/degeneracies/blended-light-degeneracy/)
