@@ -8,7 +8,7 @@ sidebar:
 ---
 
 The wide-close degeneracy occurs for binary lenses due to similarities of shape 
-between the caustic structures.  
+between the caustic structures.  This is fully explored in [Dominik (1999)](https://ui.adsabs.harvard.edu/abs/1999A%26A...349..108D/abstract).
 
 As discussed in [caustics](/theory/caustics/), binary caustics structures can have 
 one of three morphologies: 
@@ -80,3 +80,5 @@ and hence lightcurve morphology.
 </tr>
 </table>
 
+## References
+[Dominik, M (1999) A&A, 349, 108](https://ui.adsabs.harvard.edu/abs/1999A%26A...349..108D/abstract)
