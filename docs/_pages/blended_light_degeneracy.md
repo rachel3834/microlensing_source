@@ -28,12 +28,12 @@ $$F_{s}(t) = F_{s,0} A(t)$$.  Here, the baseline flux (before and after the even
 <i>measured</i> from the blended stars, $$F_{0}$$, is a combination of flux 
 from the source and other stars. 
 
-Where $$u_{0}>>1$$, the expression for magnification becomes
+Where $$u_{0}\gg1$$, the expression for magnification becomes
 $$A \approx = 1 + \frac{2}{u^{4}} = 1 + \frac{2}{[u_{0}^{2} + (t/t_{E})^{2}]^{2}}$$, 
 where $$t_{0}$$ = 0. 
 
 Using these equations, we can derive an expression for the ratio between the source 
-and total flux in the limit where $$u_{0} << 1$$. 
+and total flux in the limit where $$u_{0} \gg 1$$. 
 
 $$\frac{F(t)}{F_{0}} = (1 - f_{s}) + f_{s} \left( 1 + \frac{2}{(u_{0}^{2} + (t/t_{E})^{2})^{2}} \right) = 1 + \frac{2 f_{s}}{(u_{0}^{2} + (t/t_{E})^{2})^{2}}$$,
  where $$f_{s}$$ is the fraction of the measured light coming from the source. 
@@ -56,4 +56,30 @@ have a longer t<sub>E</sub> and lower impact parameter than it actually does.
 
 An important aspect to note here is that although formally this degeneracy 
 affects events with impact parameters greater than 1.0, in practise it is 
-significant at smaller impact parameters as in the plotted example.  
+significant even for $$u_{0}<1.0$$.  
+
+## Heavy blending
+The second instance where blending can cause degeneracies is when the source is 
+faint compared with the total flux from its blended neighbors (i.e. $$f_{s} \ll 1$$). This is a 
+common scenario in the crowded star fields of the Galactic bulge.  We can only 
+detect lensing in such cases when the peak magnification is high (and $$u_{0}$$ is small), 
+that is $$A \approx 1 + u^{-1}$$.  
+
+<figure>
+  <img src="{{ '/assets/images/blending_degen_heavy_blending.png' | relative_url }}" alt="Comparison of lightcurves with no and heavy blending" style="width:100%;">
+  <figcaption>
+    Comparison of lightcurves with no and heavy blending [R.A.Street]</figcaption>
+</figure>
+
+In this case, the flux magnification becomes:
+
+$$ \frac{F(t)}{F_{0}} = 1 + \frac{f_{s}}{(u_{0}^{2} + (t/t_{0})^{2})^{1/2}}. $$
+
+Once again we can explore the behaviour by substituting the main parameters for 
+values multiplied by a common constant:
+
+$$f_{s}^{\prime} = f_{s} C, u_{0}^{\prime} = u_{0} C, t_{0}^{\prime} = t_{0} C^{-1}.$$
+
+This recovers the same expression as above, demonstrating the degeneracy as 
+illustrated in the plot above.  This implies that heavy blending of a source 
+can effectively "mask" the true magnification and Einstein timescale.  
