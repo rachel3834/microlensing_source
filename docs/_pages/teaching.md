@@ -17,7 +17,7 @@ events to see if you can spot the signature of a planet.
 
 The article on [estimating parameters]({{ '/theory/estimating-parameters/' | relative_url }}) describes how 
 to derive approximate values for the main microlensing parameters from the lightcurve.  
-You can practise this on [Point-Source, Point-Lens events]({{ '/teaching/pspl-exercise/' | relative_url }}) 
+You can practise this on [Point-Source, Point-Lens events]({{ '/teaching/pspl-exercises/' | relative_url }}) 
 and explore a number of worksheets for binary events:
 * [MOA-2009-BLG-226L]({{ '/teaching/worksheet-MOA-2009-BLG-226L/' | relative_url }})
 * [MOA-2010-BLG-328L]({{ '/teaching/worksheet-MOA-2010-BLG-328L/' | relative_url }})

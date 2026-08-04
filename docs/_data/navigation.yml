@@ -27,6 +27,8 @@ main:
   - title: "Teaching"
     url: /teaching/
     children:
+      - title: "PSPL Exercises"
+        url: /teaching/pspl-exercises/
       - title: "Finding Planets"
         url: /teaching/finding-planets/
       - title: "Caustics"
