@@ -2,14 +2,11 @@
 title: "Impact parameter sign degeneracy"
 permalink: /theory/degeneracies/impact-parameter-sign-degeneracy/
 layout: single
-toc: true
-toc_label: "On this page"
-toc_icon: "list"
+classes: wide
 sidebar:
   nav: "main"
 ---
 
-## Introduction
 This degeneracy arises from symmetries in the caustic structure.  The caustic is defined in lens-centered 
 coordinates, such that the impact parameter, u, can take positive and negative values. 
 

@@ -56,8 +56,8 @@ are used to exclude false-positive detections.  As a result, OGLE issue a very r
 <tr>
 <td>
 <figure>
-  <img src="{{ '/assets/images/MOA_telescope.jpg' | relative_url }}" alt="1.8m Telescope, Mt. John" style="max-width: 500px; width: 50%;">
-  <img src="{{ '/assets/images/PRIME_telescope.jpg' | relative_url }}" alt="1.8m PRIME Telescope, South Africa" style="max-width: 500px; width: 40%;">
+  <img src="{{ '/assets/images/MOA_Telescope.jpg' | relative_url }}" alt="1.8m Telescope, Mt. John" style="max-width: 500px; width: 50%;">
+  <img src="{{ '/assets/images/PRIME_Telescope.jpg' | relative_url }}" alt="1.8m PRIME Telescope, South Africa" style="max-width: 500px; width: 40%;">
   <figcaption>(Left) The 1.8m Telescope, Mt. John Observatory, New Zealand and (right)
   the 1.8m PRIME Telescope, South African Astronomical Observatory [MOA/PRIME; Sumi et al.(2025)]
 </figcaption>
