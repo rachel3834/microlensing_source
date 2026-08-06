@@ -83,3 +83,6 @@ of annual parallax is to introduce a curvature into the relative lens-source
 trajectory.  This is the result of the observer moving during the event.  
 There is still a u<sub>0</sub> degeneracy if this curve trajectory intersects 
 the caustic at the same angle &alpha; due to the symmetry of the caustic.  
+
+## Referencs
+[Dominik et al.(2018), MNRAS, 484, 5608](https://arxiv.org/abs/1808.03149).

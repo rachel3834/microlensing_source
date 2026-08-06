@@ -19,7 +19,7 @@ This page is a work in progress and more detailed descriptions are being develop
 ## Degeneracies affecting all events
 * [Impact parameter sign degeneracy](/theory/degeneracies/impact-parameter-sign-degeneracy/)
 * [Blended light](/theory/degeneracies/blended-light-degeneracy/)
-* Rho degeneracy [Chung et al. (2017)](http://adsabs.harvard.edu/abs/2017ApJ...838..154C), [Han et al.(2020)](https://arxiv.org/abs/2003.02375)
+* [Finite source degeneracy](/theory/degeneracies/finite-source-degeneracy/)
 * Extreme finite source [Johnson et al.(2021)](https://arxiv.org/abs/2109.08161)
 * PSPL with different $$t_{E}$$ [Mróz et al.(2017)](http://adsabs.harvard.edu/abs/2017Natur.548..183M)
 * Finite/point source degeneracy [Poleski et al.(2017)](https://ui.adsabs.harvard.edu/abs/2017A%26A...604A.103P/abstract), [Han et al.(2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....158..102H/abstract)
