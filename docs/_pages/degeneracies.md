@@ -18,7 +18,6 @@ This page is a work in progress and more detailed descriptions are being develop
 
 ## Degeneracies affecting all events
 * [Impact parameter sign degeneracy](/theory/degeneracies/impact-parameter-sign-degeneracy/)
-* Positive/negative $$u_{0}$$ with the same $$\pi_{E}$$ [Dominik et al.(2018)](https://arxiv.org/abs/1808.03149)
 * [Blended light](/theory/degeneracies/blended-light-degeneracy/)
 * Rho degeneracy [Chung et al. (2017)](http://adsabs.harvard.edu/abs/2017ApJ...838..154C), [Han et al.(2020)](https://arxiv.org/abs/2003.02375)
 * Extreme finite source [Johnson et al.(2021)](https://arxiv.org/abs/2109.08161)
