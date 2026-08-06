@@ -15,7 +15,7 @@ the source intersects the caustic in two places where the magnification is
 identical, producing an identical lightcurve.  These points occur at u and -u.  
 
 In point-source, point-lens models, the caustic is a point.  Since this is 
-symmetrical from all directions, the models do not have an $alpha; parameter, but 
+symmetrical from all directions, the models do not have an &alpha; parameter, but 
 the same impact parameter degeneracy exists.  
 
 <div class="container">
