@@ -2,7 +2,9 @@
 title: "Finite source degeneracy"
 permalink: /theory/degeneracies/finite-source-degeneracy/
 layout: single
-classes: wide
+toc: true
+toc_label: "On this page"
+toc_icon: "list"
 sidebar:
   nav: "main"
 ---
