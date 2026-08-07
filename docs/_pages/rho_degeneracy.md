@@ -11,7 +11,9 @@ sidebar:
 
 Finite source effects cause measurable distortions only around the peak of a microlensing lightcurve 
  if the angular radius of the source star is comparable with the impact parameter, u<sub>0</sub>. 
+This can result in a number of degeneracies. 
 
+## Undersampled peak degeneracy
 Degeneracies can arise if this region in the lightcurve is not well sampled.  A good example of this 
 is event OGLE-2015-BLG-1482L analysed in [Chung et al.(2017)](https://ui.adsabs.harvard.edu/abs/2017ApJ...838..154C/abstract).  
 
