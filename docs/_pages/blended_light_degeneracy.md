@@ -83,3 +83,23 @@ $$f_{s}^{\prime} = f_{s} C, u_{0}^{\prime} = u_{0} C, t_{0}^{\prime} = t_{0} C^{
 This recovers the same expression as above, demonstrating the degeneracy as 
 illustrated in the plot above.  This implies that heavy blending of a source 
 can effectively "mask" the true magnification and Einstein timescale.  
+
+## Blending and t<sub>E</sub>
+The information on an event's $$t_{E}$$ is derived mostly from the "wings" of the 
+lightcurve.  Since by definition this is when the event is fainter, this coincides when 
+the photometric noise is greatest, and also when the source flux is more difficult to 
+distinguish from the flux of blended neighbors.  As explained in [blended light](/theory/degeneracies/blended-light-degeneracy/),
+blended light can make an event timescale appear smaller than it actually is. 
+Since $$t_{E} = \theta_{E}/\mu_{rel}$$, where $$\mu_{rel}$$ is the lens-source relative 
+proper motion, and the angular Einstein radius, $$\theta_{E}$$ depends on the mass 
+of the lens:
+
+$$\theta_{E} = \sqrt{ \frac{4GM_{L}}{c^{2}}}  (D_{L}^{-1} - D_{S}^{-1}),$$
+
+blending can lead to misleading estimates of the lens masses.  This can be particularly 
+important for the very short duration events thought to be caused by Free-Floating Planets
+(see e.g. [Mróz et al.(2017)](https://ui.adsabs.harvard.edu/abs/2017Natur.548..183M/abstract)).
+
+## References
+[Mróz et al.(2017) Nature, 548, 183](https://ui.adsabs.harvard.edu/abs/2017Natur.548..183M/abstract))<br>
+[Woźniac and Paczyński (1997) ApJ, 487, 55](https://iopscience.iop.org/article/10.1086/304607)

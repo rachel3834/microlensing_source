@@ -31,7 +31,7 @@ photometry, and it is helpful to know how to build physical intuition about the 
 
 The magnification of the source is given by the equation:
 
-$$A(u) = \frac{u^2 + 2}{u (u2 + 4 )^{1/2}}$$
+$$A(u) = \frac{u^2 + 2}{u (u^{2} + 4 )^{1/2}}$$
 
 where $$u = ( u_0^2 + \tau^2)^{1/2}$$ and $$\tau = (t - t_0)/t_{E}$$.  
 

@@ -20,7 +20,6 @@ This page is a work in progress and more detailed descriptions are being develop
 * [Impact parameter sign degeneracy](/theory/degeneracies/impact-parameter-sign-degeneracy/)
 * [Blended light](/theory/degeneracies/blended-light-degeneracy/)
 * [Finite source degeneracies](/theory/degeneracies/finite-source-degeneracies/)
-* PSPL with different $$t_{E}$$ [Mróz et al.(2017)](http://adsabs.harvard.edu/abs/2017Natur.548..183M)
 
 ## Binary lens degeneracies
 * [Wide-close degeneracy](/theory/degeneracies/wide-close-degeneracy/)
