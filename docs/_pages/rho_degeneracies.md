@@ -64,6 +64,29 @@ Here, different binary lens separations and mass ratios combine with different s
 to produce similar lightcurves.  These could be distinguished with higher resolution data, 
 but this isn't always available. 
 
+## Finite/point source degeneracy
+In some cases, under sampled lightcurves, particularly during short-duration anomalies, can lead to 
+degeneracies between models with a point-source versus one with a finite value of $$\rho$$.  
+
+Two real-world examples of this can be found in [Poleski et al.(2017)](https://ui.adsabs.harvard.edu/abs/2017A%26A...604A.103P/abstract) 
+and [Han et al.(2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....158..102H/abstract).  
+
+<figure>
+<img src="{{ '/assets/images/han2019_fig2.png' | relative_url }}" alt="Lightcurve of anomaly in event OGLE-2018-BLG-0740Lb" style="width:500px;">
+<img src="{{ '/assets/images/han2019_fig5.png' | relative_url }}" alt="Lens plane plots for OGLE-2018-BLG-0740Lb" style="width:500px;">
+  <figcaption>
+    (Upper) Lightcurve of the anomaly in the event OGLE-2018-BLG-0740Lb, (lower) close-up lens plane plots for OGLE-2018-BLG-0740Lb showing 
+alternative solutions with point-source and finite-source models.  The red solid line represents 
+the binary model caustic and the circles represent the source at the times of observation. [Han et al.(2019), Figs. 2 & 5]
+  </figcaption>
+</figure>
+
+The plot above shows a zoom-in of the lens plane and caustics for the point-source and 
+finite-source binary models during the caustic-crossing anomaly shown in the lightcurve.  
+Circles mark the angular size of the source at the times when the anomaly was observed. By chance, none of the observations coincided 
+with the caustic entrance or exit, leaving the lightcurve anomaly's morphology ambiguous.  
+As a result, the data do not constrain the value of $$\rho$$.  
+
 ## Extreme Finite Source Events
 When lensing is caused by an object of low mass, it is possible for the angular radius of the source 
 star to exceed the angular Einstein radius of the lens.  This scenario was explored in depth by 
