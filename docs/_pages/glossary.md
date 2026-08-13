@@ -1,6 +1,6 @@
 ---
 title: "Glossary"
-permalink: /theory/glossary/
+permalink: /glossary/
 layout: single
 toc: true
 toc_label: "On this page"

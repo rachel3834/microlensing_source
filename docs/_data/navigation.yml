@@ -18,12 +18,12 @@ main:
         url: /theory/binary-lenses/
       - title: "Caustics"
         url: /theory/caustics/
-      - title: "Glossary"
-        url: /theory/glossary/
       - title: "Estimating Parameters"
         url: /theory/estimating-parameters/
       - title: "Degeneracies"
         url: /theory/degeneracies/
+  - title: "Glossary"
+    url: /glossary/
   - title: "Teaching"
     url: /teaching/
     children:
