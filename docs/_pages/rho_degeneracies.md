@@ -1,6 +1,6 @@
 ---
-title: "Finite source degeneracy"
-permalink: /theory/degeneracies/finite-source-degeneracy/
+title: "Finite source degeneracies"
+permalink: /theory/degeneracies/finite-source-degeneracies/
 layout: single
 toc: true
 toc_label: "On this page"
@@ -221,8 +221,13 @@ To recap, for a limb darkened source, the peak flux and lightcurve shape depend 
 $$b_{0}$$.  But the observed duration, $$t_{c}$$ depends on $$t_{*}$$ and also on $$b_{0}$$, so the 
 changes in flux and duration are correlated.  
 
-If the limb darkening parameter is fixed, i.e. it can be determined independently of the microlensing 
-model, we can explore how $$f_{pl}$$ behaves as a function of $$b_{0}$$ and $$\Gamma$$.  
+### Modeling with limb darkening
+In some cases the limb darkening parameter is fixed, meaning that it can be determined independently of the 
+microlensing model.  For example, if the effective temperature of the source star is inferred from multi-band 
+photometry or spectroscopy, then the limb darkening co-efficients can be derived from published 
+look-up tables such as [Claret & Bloemen (2011), A&A, 529, 75](http://adsabs.harvard.edu/abs/2011A%26A...529A..75C). 
+
+Where the limb darkening parameter is known, we can explore how $$f_{pl}$$ behaves as a function of $$b_{0}$$ and $$\Gamma$$.  
 
 <figure>
 <img src="{{ '/assets/images/johnson2022_fig4.png' | relative_url }}" alt="Fractional peak-to-limb flux difference parameter as a function of b0" style="width:50%;">
@@ -242,7 +247,36 @@ degenerate for larger values of $$\Gamma$$.
 four parameters are required for the model ($$F_{s}, \rho, \beta, t_{*}$$), so all four parameters 
 are degenerate with each other.  
 
+However, if the limb darkening parameter is not known, then events must be modeled by considering it 
+to be a free parameter.  In this case it can be shown that there is a mathematical one-parameter degeneracy 
+between $$\beta$$, $$t_{*}$$, $$\Gamma$$ and $$F_{s}\rho^{-2}$$ such that:
 
+$$\Gamma^{\prime} = \eta \Gamma, \beta^{\prime} = \gamma \beta, t_{*}^{\prime} = \gamma^{-1}t_{*},$$
+
+$$\left ( \frac{F_{s}}{\rho^{2}} \right ) = \frac{1}{\eta\gamma}\left ( \frac{F_{s}}{\rho^{2}} \right ),$$
+
+where $$\gamma = \frac{1 - \eta\Gamma}{\eta(1 - \Gamma)}$$, and $$\eta$$ is an arbitrary positive 
+constant that meets the criteria $$\eta\Gamma \le 1, \gamma\beta \le 1$$.  
+As a result, only the parameters $$F_{s}$$ and $$\rho$$ are degenerate with each other and $$\Delta F_{max}$$ is 
+constant for fixed values of $$(\eta\gamma)^{-1}$$.  
+
+In the case where $$\rho \gg 1$$ but is still finite, $$f_{ws}$$ is non-zero, meaning that the peak 
+in the lightcurve has rounded, rather than square, "shoulders". This fraction gives us an extra 
+observable ($$t_{c}, f_{pl}, f_{ws}$$ and $$\Delta F_{max}$$).  In this case, there is a 
+continuous mathematical degeneracy such that:
+
+$$\Gamma^{\prime} = \eta\Gamma, \beta^{\prime} = \gamma\beta, t_{*}^{\prime} = \gamma^{-1}t_{*}, \rho^{\prime} = \gamma^{-2}\rho, F_{s}^{\prime} = \eta^{-1}\gamma^{-5}F_{s}.$$
+
+Again, $$\eta$$ is an arbitrary positive constant meeting the criteria $$\eta\Gamma \le 1, \gamma\beta \le 1$$.  
+In this case, $$F_{s}$$ and $$\rho$$ become coupled to the larger degeneracy.  
+
+### Real-world extreme finite source events
+While this article explores the theory behind these degeneracies, in practice, not all combinations 
+of parameter values are physically plausible.  Extreme finite source events have been detected 
+in the real-world, usually caused by giant or sub-giant source stars.  For detailed analysis 
+of these events, see Mróz et al.([2018](https://ui.adsabs.harvard.edu/abs/2018AJ....155..121M/abstract), 
+[2019](http://ui.adsabs.harvard.edu/abs/2019A&A...622A.201M/abstract), [2020a](http://ui.adsabs.harvard.edu/abs/2020AJ....159..262M/abstract), 
+[2020b](http://ui.adsabs.harvard.edu/abs/2020ApJ...903L..11M/abstract)).
 
 ## References
  [Chung et al.(2017) Apj, 838, id.154](https://ui.adsabs.harvard.edu/abs/2017ApJ...838..154C/abstract)<br>
@@ -250,4 +284,9 @@ are degenerate with each other.
  [Han et al.(2020) AJ, 160, id.64](https://arxiv.org/abs/2003.02375)<br>
 [Johnson et al. (2022), ApJ, 927, 24](https://ui.adsabs.harvard.edu/abs/2022ApJ...927...63J/abstract)<br>
  [Liebes, S. (1964), Phys. Rev. 133, 835](https://ui.adsabs.harvard.edu/abs/1964PhRv..133..835L/abstract)<br>
+[Mróz, P., Ryu, Y.-H., Skowron, J., et al. 2018, AJ, 155, 121](https://ui.adsabs.harvard.edu/abs/2018AJ....155..121M/abstract)
+[Mróz, P., Udalski, A., et al. 2019, A&A, 622, A201](http://ui.adsabs.harvard.edu/abs/2019A&A...622A.201M/abstract)
+[Mróz, P., Poleski, R., Han, C., et al. 2020, AJ, 159, 262](http://ui.adsabs.harvard.edu/abs/2020AJ....159..262M/abstract)
+[Mróz, P., Poleski, R., Gould, A., et al. 2020, ApJL, 903,
+L11](http://ui.adsabs.harvard.edu/abs/2020ApJ...903L..11M/abstract)
  [Yoo, J., DePoy, D. L., Gal-Yam, A., et al. (2004), ApJ, 603, 139](https://iopscience.iop.org/article/10.1086/381241)
