@@ -23,7 +23,6 @@ This page is a work in progress and more detailed descriptions are being develop
 
 ## Binary lens degeneracies
 * [Wide-close degeneracy](/theory/degeneracies/wide-close-degeneracy/)
-* Wide degeneracy [Bennett et al.(2012)](https://ui.adsabs.harvard.edu/abs/2012ApJ...757..119B/abstract), [Sumi et al.(2016)](http://adsabs.harvard.edu/abs/2016ApJ...825..112S)
 * Jerk parallax [Gould (2004)](http://adsabs.harvard.edu/abs/2004ApJ...606..319G), [Park et al.(2004)](http://adsabs.harvard.edu/abs/2004ApJ...609..166P)
 * Parallax vs. orbital motion [Gaudi et al.(2008)](https://ui.adsabs.harvard.edu/abs/2008Sci...319..927G/abstract), [Batista et al.(2011)](http://adsabs.harvard.edu/abs/2011A%26A...529A.102B), [Skowron et al.(2011)](http://adsabs.harvard.edu/abs/2011ApJ...738...87S)
 * Binary with orbial motion vs. triple lens [Bennett et al.(1999)](https://ui.adsabs.harvard.edu/abs/1999Natur.402...57B/abstract), [Jung et al.(2013)](http://adsabs.harvard.edu/abs/2013ApJ...768L...7J), [Han et al.(2016)](http://adsabs.harvard.edu/abs/2016ApJ...825....8H)
@@ -37,6 +36,7 @@ This page is a work in progress and more detailed descriptions are being develop
 * Ubiquitous unifying degeneracy for two-body systems [Zhang, Gaudi & Bloom (2022)](https://ui.adsabs.harvard.edu/abs/2022NatAs...6..782Z/abstract)
 
 ## Planetary binary degeneracies
+* [Wide degeneracy](/theory/degeneracies/wide-degeneracy/)
 * Inner/outer degeneracy [Gaudi & Gould (1997)](https://ui.adsabs.harvard.edu/abs/1997ApJ...486...85G/abstract), [Calchi Novati et al (2018)](https://arxiv.org/abs/1801.05806)
 * Planet vs. equal-mass binary [Choi et al.(2012)](http://adsabs.harvard.edu/abs/2012ApJ...756...48C)
 * Binary source vs. planetary lens [Gaudi (1998)](https://ui.adsabs.harvard.edu/abs/1998ApJ...506..533G/abstract), [Jung et al.(2017)](http://adsabs.harvard.edu/abs/2017AJ....153..129J)
