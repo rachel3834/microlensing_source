@@ -304,12 +304,13 @@ of these events, see Mróz et al.([2018](https://ui.adsabs.harvard.edu/abs/2018A
 ## References
  [Chung et al.(2017) Apj, 838, id.154](https://ui.adsabs.harvard.edu/abs/2017ApJ...838..154C/abstract)<br>
 [Gould, A. 1994a ApJ, 421, L71](https://ui.adsabs.harvard.edu/abs/1994ApJ...421L..71G/abstract)<br>
+[Han et al.(2019) AJ, 158, 102](https://ui.adsabs.harvard.edu/abs/2019AJ....158..102H/abstract)<br>
  [Han et al.(2020) AJ, 160, id.64](https://arxiv.org/abs/2003.02375)<br>
 [Johnson et al. (2022), ApJ, 927, 24](https://ui.adsabs.harvard.edu/abs/2022ApJ...927...63J/abstract)<br>
  [Liebes, S. (1964), Phys. Rev. 133, 835](https://ui.adsabs.harvard.edu/abs/1964PhRv..133..835L/abstract)<br>
-[Mróz, P., Ryu, Y.-H., Skowron, J., et al. 2018, AJ, 155, 121](https://ui.adsabs.harvard.edu/abs/2018AJ....155..121M/abstract)
-[Mróz, P., Udalski, A., et al. 2019, A&A, 622, A201](http://ui.adsabs.harvard.edu/abs/2019A&A...622A.201M/abstract)
-[Mróz, P., Poleski, R., Han, C., et al. 2020, AJ, 159, 262](http://ui.adsabs.harvard.edu/abs/2020AJ....159..262M/abstract)
-[Mróz, P., Poleski, R., Gould, A., et al. 2020, ApJL, 903,
-L11](http://ui.adsabs.harvard.edu/abs/2020ApJ...903L..11M/abstract)
+[Mróz, P., Ryu, Y.-H., Skowron, J., et al. 2018, AJ, 155, 121](https://ui.adsabs.harvard.edu/abs/2018AJ....155..121M/abstract)<br>
+[Mróz, P., Udalski, A., et al. 2019, A&A, 622, A201](http://ui.adsabs.harvard.edu/abs/2019A&A...622A.201M/abstract)<br>
+[Mróz, P., Poleski, R., Han, C., et al. 2020, AJ, 159, 262](http://ui.adsabs.harvard.edu/abs/2020AJ....159..262M/abstract)<br>
+[Mróz, P., Poleski, R., Gould, A., et al. 2020, ApJL, 903,L11](http://ui.adsabs.harvard.edu/abs/2020ApJ...903L..11M/abstract)<br>
+[Poleski et al.(2017)](https://ui.adsabs.harvard.edu/abs/2017A%26A...604A.103P/abstract)<br>
  [Yoo, J., DePoy, D. L., Gal-Yam, A., et al. (2004), ApJ, 603, 139](https://iopscience.iop.org/article/10.1086/381241)

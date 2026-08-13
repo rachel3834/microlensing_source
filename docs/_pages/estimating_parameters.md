@@ -82,8 +82,8 @@ the location of one of the images:
   <figcaption>Location of major and minor images during a lensing event [Y.C. Yee]</figcaption>
 </figure>
 
-The position of the images is given by: y<sub>&#177</sub> = &#177
-(&frac12;) (&#8730(u<sup>2</sup> + 4) &#177 u), so the planet
+The position of the images is given by: $$y_{\pm} = \pm \frac{1}{2}
+(\sqrt{u^{2} + 4} \pm u)$$, so the planet
 location, <i>s</i> must be either <i>y</i><sub>+</sub>
 or <i>y</i><sub>-</sub>.
 
@@ -109,5 +109,15 @@ the square root of the mass ratio.
 
 Equivalently, mass ratio $$=  q = \frac{m_p}{M_{star}} = \frac{t_{E,p}^{2}}{t_{E,star}^{2}}$$. 
 
+## Estimating the source trajectory
+
+For binary events with clear anomalies, the lens-source relative trajectory angle, 
+$$\alpha$$ can be estimated from the expression [Han et al.(2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....158..102H/abstract):
+
+$$\alpha = \tan^{-1}\left ( \frac{u_{0}t_{E}}{t_{anom} - t_{0}} \right) \approx 2.5\,radian,$$
+
+where $$t_{anom}$$ is the time of peak anomaly and all other parameters have their usual meanings. 
+
 ## References
-[Gaudi & Gould (1997)](http://adsabs.harvard.edu/abs/1997ApJ...486...85G)
+[Gaudi & Gould (1997)](http://adsabs.harvard.edu/abs/1997ApJ...486...85G)<br>
+[Han et al.(2019) AJ, 158, 102](https://ui.adsabs.harvard.edu/abs/2019AJ....158..102H/abstract)<br>

@@ -20,9 +20,7 @@ This page is a work in progress and more detailed descriptions are being develop
 * [Impact parameter sign degeneracy](/theory/degeneracies/impact-parameter-sign-degeneracy/)
 * [Blended light](/theory/degeneracies/blended-light-degeneracy/)
 * [Finite source degeneracies](/theory/degeneracies/finite-source-degeneracies/)
-* Extreme finite source [Johnson et al.(2021)](https://arxiv.org/abs/2109.08161)
 * PSPL with different $$t_{E}$$ [Mróz et al.(2017)](http://adsabs.harvard.edu/abs/2017Natur.548..183M)
-* Finite/point source degeneracy [Poleski et al.(2017)](https://ui.adsabs.harvard.edu/abs/2017A%26A...604A.103P/abstract), [Han et al.(2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....158..102H/abstract)
 
 ## Binary lens degeneracies
 * [Wide-close degeneracy](/theory/degeneracies/wide-close-degeneracy/)
@@ -46,7 +44,7 @@ This page is a work in progress and more detailed descriptions are being develop
 * s vs. 1/s for planetary caustics [Bhattacharya et al.(2016)](https://ui.adsabs.harvard.edu/abs/2016AJ....152..140B/abstract), [Poleski et al.(2018)](https://ui.adsabs.harvard.edu/abs/2018AJ....156..104P/abstract), [Song, Mao & An (2014)](http://adsabs.harvard.edu/abs/2014MNRAS.437.4006S), [Lee (2017)](http://adsabs.harvard.edu/abs/2017Univ....3...53L)
 
 ## Triple lens degeneracies
-* Binary with orbial motion vs. triple lens [Bennett et al.(1999)](https://ui.adsabs.harvard.edu/abs/1999Natur.402...57B/abstract), [Jung et al.(2013)](http://adsabs.harvard.edu/abs/2013ApJ...768L...7J), [Han et al.(2016)](http://adsabs.harvard.edu/abs/2016ApJ...825....8H)
+* Binary with orbital motion vs. triple lens [Bennett et al.(1999)](https://ui.adsabs.harvard.edu/abs/1999Natur.402...57B/abstract), [Jung et al.(2013)](http://adsabs.harvard.edu/abs/2013ApJ...768L...7J), [Han et al.(2016)](http://adsabs.harvard.edu/abs/2016ApJ...825....8H)
 * Planet in binary vs. multi-planet systems [Han et al.(2019)](https://ui.adsabs.harvard.edu/abs/2019AJ....158..114H/abstract)
 
 ## Space-based observations
