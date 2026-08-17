@@ -23,7 +23,7 @@ This page is a work in progress and more detailed descriptions are being develop
 
 ## Binary lens degeneracies
 * [Wide-close degeneracy](/theory/degeneracies/wide-close-degeneracy/)
-* Jerk parallax [Gould (2004)](http://adsabs.harvard.edu/abs/2004ApJ...606..319G), [Park et al.(2004)](http://adsabs.harvard.edu/abs/2004ApJ...609..166P)
+* [Jerk parallax](/theory/degeneracies/jerk-parallax-degeneracy/)
 * Parallax vs. orbital motion [Gaudi et al.(2008)](https://ui.adsabs.harvard.edu/abs/2008Sci...319..927G/abstract), [Batista et al.(2011)](http://adsabs.harvard.edu/abs/2011A%26A...529A.102B), [Skowron et al.(2011)](http://adsabs.harvard.edu/abs/2011ApJ...738...87S)
 * Binary with orbial motion vs. triple lens [Bennett et al.(1999)](https://ui.adsabs.harvard.edu/abs/1999Natur.402...57B/abstract), [Jung et al.(2013)](http://adsabs.harvard.edu/abs/2013ApJ...768L...7J), [Han et al.(2016)](http://adsabs.harvard.edu/abs/2016ApJ...825....8H)
 * Binary caustic and source size [Hwang et al.(2018)](http://adsabs.harvard.edu/abs/2018AJ....155...20H)

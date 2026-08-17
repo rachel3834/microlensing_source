@@ -80,4 +80,5 @@ mimics a different set of event parameters.
 ## References:
 [Gould, A. (1992), ApJ, 392, 442](http://adsabs.harvard.edu/abs/1992ApJ...392..442G)<br>
 [Gould, A. (2000), ApJ, 542, 785](http://iopscience.iop.org/article/10.1086/317037/pdf)<br>
-[Buchalter, A. & Kamionkowski, M. (1997), ApJ, 482, 782](http://adsabs.harvard.edu/abs/1997ApJ...482..782B)
+[Buchalter, A. & Kamionkowski, M. (1997), ApJ, 482, 782](http://adsabs.harvard.edu/abs/1997ApJ...482..782B)<br>
+[Smith, Mao, Paczyński (2003), MNRAS, 339, 925](https://ui.adsabs.harvard.edu/abs/2003MNRAS.339..925S/abstract)
