@@ -111,7 +111,27 @@ where
 
 $$\mathbf{\pi_{j}} = \frac{4}{3} \frac{\mathbf{j}}{\alpha^{2}t_{E}}, $$
 
-represents the jerk parallax.  
+represents the jerk parallax and the $$||$$ and $$\perp$$ notation refers to 
+components that are parallel and perpendicular to the acceleration.  The Earth's 
+orbit is approximated to be a circle, such that the derivative of the jerk is $$-\Omega_{\oplus}^{2}\mathbf{\alpha}$$ 
+where $$\Omega_{\oplus} = 2\pi yr^{-1}$$.  
+
+This formulation has the practical advantage that the constants $$C_{0-4}$$ can be 
+determined empirically if $$u_{0}, t_{E}, \mathbf{\pi_{E}}$$ can be measured from 
+an event's lightcurve.  
+
+In the limit where $$u_{0} \to 0$$ the expressions for co-efficients $$C_{3,4}$$ become:
+
+$$C_{3} = \alpha \frac{\pi_{E,||}}{t_{E}}, C_{4} = \frac{\alpha^{2}}{4}(\pi_{E}^{2} + \mathbf{\pi_{E}} \cdot \mathbf{\pi_{j}}).$$
+
+But this case exhibits the degeneracy such that
+
+$$\pi_{E,||}^{\prime} = \pi_{E,||}, \pi_{E,\perp}^{\prime} = -(\pi_{E,\perp} + \pi_{j,\perp}), t_{E}^{\prime} = t_{E}, $$
+
+These expressions have one exception in the special case where 
+$$\pi_{E,\perp} = -\pi_{j,\perp}/2$$ and $$\mathbf{\pi_{E}^{\prime}} = \mathbf{\pi_{E}}$$, 
+and the degeneracy is broken. 
+
 
 ## References
 [Alcock, C., et al. 2001, Nature, 414, 617](https://www.nature.com/articles/414617a)

@@ -21,13 +21,17 @@ This page is a work in progress and more detailed descriptions are being develop
 * [Blended light](/theory/degeneracies/blended-light-degeneracy/)
 * [Finite source degeneracies](/theory/degeneracies/finite-source-degeneracies/)
 
-## Binary lens degeneracies
-* [Wide-close degeneracy](/theory/degeneracies/wide-close-degeneracy/)
+## Parallax-related degeneracies
+* Constant acceleration degeneracy
 * [Jerk parallax](/theory/degeneracies/jerk-parallax-degeneracy/)
 * Parallax vs. orbital motion [Gaudi et al.(2008)](https://ui.adsabs.harvard.edu/abs/2008Sci...319..927G/abstract), [Batista et al.(2011)](http://adsabs.harvard.edu/abs/2011A%26A...529A.102B), [Skowron et al.(2011)](http://adsabs.harvard.edu/abs/2011ApJ...738...87S)
+* Parallax vs. xallerap 
+* Satellite parallax [Refsdal (1966)](http://adsabs.harvard.edu/abs/1966MNRAS.134..315R), [Gould (1994)](http://adsabs.harvard.edu/abs/1994ApJ...421L..75G)
+
+## Binary lens degeneracies
+* [Wide-close degeneracy](/theory/degeneracies/wide-close-degeneracy/)
 * Binary with orbial motion vs. triple lens [Bennett et al.(1999)](https://ui.adsabs.harvard.edu/abs/1999Natur.402...57B/abstract), [Jung et al.(2013)](http://adsabs.harvard.edu/abs/2013ApJ...768L...7J), [Han et al.(2016)](http://adsabs.harvard.edu/abs/2016ApJ...825....8H)
 * Binary caustic and source size [Hwang et al.(2018)](http://adsabs.harvard.edu/abs/2018AJ....155...20H)
-* Parallax vs. xallerap 
 * Inside/outside degeneracy for minor image perturbation [Han et al.(2018)](https://arxiv.org/abs/1809.07898)
 * Binary lens vs. binary source [Calchi Novati et al.(2018)](http://adsabs.harvard.edu/abs/2018AJ....155..261C), [Suzuki et al.(2018)](http://adsabs.harvard.edu/abs/2018AJ....155..263S), [Dominik et al.(2019)](https://academic.oup.com/mnras/article/484/4/5608/5304179)
 * Families of binary lens models for double-peaked high-mag events [Dominik et al.(2018)](https://arxiv.org/abs/1808.03149)
