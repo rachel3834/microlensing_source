@@ -1,5 +1,5 @@
 ---
-title: "Microlensing Data Challeng 2018"
+title: "Microlensing Data Challenge 2018"
 permalink: /resources/data-challenge-2018/
 layout: single
 toc: true
